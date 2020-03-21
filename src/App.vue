@@ -3,7 +3,7 @@
     <AppBar />
 
     <v-content>
-      <h1 class="text-center mt-5 mb-5">Fnacy Table Filter</h1>
+      <h1 class="text-center mt-5 mb-5">Fancy Table Filter</h1>
 
       <v-container>
         <v-row>
